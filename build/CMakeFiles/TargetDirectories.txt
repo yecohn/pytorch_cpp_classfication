@@ -1,0 +1,4 @@
+/home/yehoshua/projects/mnist_cpp/build/CMakeFiles/mnist_cpp.dir
+/home/yehoshua/projects/mnist_cpp/build/CMakeFiles/my_package.dir
+/home/yehoshua/projects/mnist_cpp/build/CMakeFiles/edit_cache.dir
+/home/yehoshua/projects/mnist_cpp/build/CMakeFiles/rebuild_cache.dir

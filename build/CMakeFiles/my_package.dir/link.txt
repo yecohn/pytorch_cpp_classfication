@@ -1,0 +1,2 @@
+/usr/bin/ar qc mnist_cpp/bin/libmy_package.a CMakeFiles/my_package.dir/models.cpp.o CMakeFiles/my_package.dir/datasets.cpp.o
+/usr/bin/ranlib mnist_cpp/bin/libmy_package.a

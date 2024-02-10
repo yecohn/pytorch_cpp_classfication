@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/yehoshua/projects/mnist_cpp/build",
+  "command": "/usr/bin/g++ -DUSE_C10D_GLOO -DUSE_C10D_NCCL -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -isystem /home/yehoshua/libraries/libtorch/include -isystem /home/yehoshua/libraries/libtorch/include/torch/csrc/api/include -isystem /usr/local/cuda/include -isystem /usr/local/include/opencv4  -D_GLIBCXX_USE_CXX11_ABI=1 -g -D_GLIBCXX_USE_CXX11_ABI=1 -o CMakeFiles/my_package.dir/models.cpp.o -c /home/yehoshua/projects/mnist_cpp/models.cpp",
+  "file": "/home/yehoshua/projects/mnist_cpp/models.cpp"
+},
+{
+  "directory": "/home/yehoshua/projects/mnist_cpp/build",
+  "command": "/usr/bin/g++ -DUSE_C10D_GLOO -DUSE_C10D_NCCL -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -isystem /home/yehoshua/libraries/libtorch/include -isystem /home/yehoshua/libraries/libtorch/include/torch/csrc/api/include -isystem /usr/local/cuda/include -isystem /usr/local/include/opencv4  -D_GLIBCXX_USE_CXX11_ABI=1 -g -D_GLIBCXX_USE_CXX11_ABI=1 -o CMakeFiles/my_package.dir/datasets.cpp.o -c /home/yehoshua/projects/mnist_cpp/datasets.cpp",
+  "file": "/home/yehoshua/projects/mnist_cpp/datasets.cpp"
+},
+{
+  "directory": "/home/yehoshua/projects/mnist_cpp/build",
+  "command": "/usr/bin/g++ -DUSE_C10D_GLOO -DUSE_C10D_NCCL -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -isystem /home/yehoshua/libraries/libtorch/include -isystem /home/yehoshua/libraries/libtorch/include/torch/csrc/api/include -isystem /usr/local/cuda/include -isystem /usr/local/include/opencv4  -D_GLIBCXX_USE_CXX11_ABI=1 -g -D_GLIBCXX_USE_CXX11_ABI=1 -std=gnu++17 -o CMakeFiles/mnist_cpp.dir/main.cpp.o -c /home/yehoshua/projects/mnist_cpp/main.cpp",
+  "file": "/home/yehoshua/projects/mnist_cpp/main.cpp"
+}
+]
